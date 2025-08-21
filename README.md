@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img width="1316" height="931" alt="image" src="https://github.com/user-attachments/assets/6ee176bd-00e1-4c44-88e1-6c6a34c343d8"/>
-<h2>LINK: <link href="https://imgur.com/a/web102-idCgPH3"/></h2>
+<a href="https://imgur.com/a/web102-idCgPH3"/> LINK </a>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
